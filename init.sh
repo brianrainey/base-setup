@@ -20,5 +20,6 @@ cd .dotfiles
 
 stow bangrc
 stow tmux
+stow vim
 
 echo "source ~/.bangrc" >> ~/.bashrc
